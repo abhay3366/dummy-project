@@ -1,0 +1,54 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:0px;
+}
+.grid-header{
+	display:grid;
+	 grid-template-columns: 150px 400px 200px auto;
+}
+#h1{
+	background:blue;
+}
+#h2{
+	background:blue;
+}
+#h3{
+	background:blue;
+}
+#h4{
+	background:blue;
+}
+
+.header{
+	padding:3px;
+}
+#h2 span{
+	font-size:45px;
+	color:white;
+	margin-top:12px;
+	display:inline-block;
+	font-weight:bold;
+}
+.exampleInputEmail1{
+height:25px;
+width:160px;
+
+
+}
+.exampleInputPassword1{
+	height:25px;
+	width:160px;
+	margin-right:25px;
+	
+}
+.button{
+	height:27px;
+	width:58px;
+	margin-right:200px;
+	margin-top:29px;
+	background:darkblue;
+	color:white;
+	border:none;
+	
+}
